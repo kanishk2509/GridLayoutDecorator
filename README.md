@@ -18,4 +18,4 @@ boolean includeEdge = true;
 recyclerView.addItemDecoration(new GridItemDecoration(spanCount, spacing, includeEdge));
 
 
-Voila! There you go.
+# Voila! There you go.
